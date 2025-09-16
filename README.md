@@ -9,9 +9,9 @@ Desenvolvemos a versão antiga do site da **FLipeCode**, com **design sofisticad
 ##  🌐 Link para acessar o Site Atual:
 
 ```bash
- 
+ https://flipecode.netlify.app/
 ```
-<a href="" target="_blank">
+<a href="https://flipecode.netlify.app/" target="_blank">
   Abrir site
 </a>
 
