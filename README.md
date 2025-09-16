@@ -6,7 +6,7 @@ Desenvolvemos a versão antiga do site da **FLipeCode**, com **design sofisticad
 
 ---
 
-##  🌐 Link para acessar o Site:
+##  🌐 Link para acessar o Site Atual:
 
 - No momento este site está indisponível!
 
