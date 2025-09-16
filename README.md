@@ -1,4 +1,4 @@
-# 💻 FLipeCode (Versão Antiga)
+# 💻 FLipeCode (Versões antigas)
 
 Desenvolvemos a versão antiga do site da **FLipeCode**, com **design sofisticado em preto e dourado**, degradês elegantes e **layout responsivo** que se adapta a todos os dispositivos. O site, construído em **HTML, CSS e JavaScript**, aplica estratégias de **funil de vendas e UX** para destacar serviços, gerar confiança e aumentar conversão.
 
