@@ -9,12 +9,7 @@ Desenvolvemos a versão antiga do site da **FLipeCode**, com **design sofisticad
 
 ##  🌐 link do site do projeto
 
-```bash
-https://filiple15.github.io/PeleSobrePele/Pele-sobre-Pele/Index.html
-```
-<a href="https://filiple15.github.io/PeleSobrePele/Pele-sobre-Pele/Index.html" target="_blank">
-  Abrir site
-</a>
+*** No momento esté site está indisponivel
 
 ---
 
